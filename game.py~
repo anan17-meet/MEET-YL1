@@ -8,10 +8,6 @@ for i in range(30):
 	cells.append(circle1)
 
 
-def border(cells):
-	for cell in cells
-	cell.x cor ()
-	cell.y cor ()
 
 
 
