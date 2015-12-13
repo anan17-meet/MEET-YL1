@@ -156,7 +156,10 @@ def get_random_y():
 
 ######################################################################
 # Custom code goes here
-
+def get_x(self):
+	return self.xcor()+self.get_radius()
+def get_y(self)
+	return self.ycor()+self.get_radius()
 
 ######################################################################
 
