@@ -1,0 +1,8 @@
+word=str("enter a world")
+if word==[0]
+	print("true")
+if word==[1]
+	print("false")
+
+
+		
